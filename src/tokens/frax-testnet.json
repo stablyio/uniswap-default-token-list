@@ -1,0 +1,26 @@
+[
+    {
+      "chainId": 2522,
+      "address": "0x43a44f4F838eE4D83FfA541791A2C06D62D5ad5c",
+      "name": "Stably USDS",
+      "symbol": "USDS",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+        "chainId": 2522,
+        "address": "0x836aa28166BB9dC7511B5afb45Bca403855084ef",
+        "name": "TRIN",
+        "symbol": "TRIN",
+        "decimals": 18,
+        "logoURI": ""
+      },
+    {
+      "chainId": 2522,
+      "address": "0x9E93F74cD6BeB5dE326E7e1D4D6165Eac771Cf79",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_USDT.png"
+    }
+  ]
