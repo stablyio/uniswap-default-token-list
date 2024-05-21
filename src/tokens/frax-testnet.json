@@ -35,7 +35,7 @@
       "chainId": 2522,
       "address": "0xFC00000000000000000000000000000000000006",
       "name": "Wrapped Frax Ether",
-      "symbol": "WFRXETH",
+      "symbol": "wfrxETH",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23225.png"
     },
