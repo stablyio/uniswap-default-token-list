@@ -14,7 +14,7 @@
         "symbol": "TRIN",
         "decimals": 18,
         "logoURI": ""
-      },
+    },
     {
       "chainId": 2522,
       "address": "0x9E93F74cD6BeB5dE326E7e1D4D6165Eac771Cf79",
@@ -22,5 +22,45 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_USDT.png"
+    },
+    {
+      "chainId": 2522,
+      "address": "0x5e49E5c84606d7CC17Af49fFecb12Bcb418631bF",
+      "name": "Staked FRAX",
+      "symbol": "SFRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35383/standard/sfrax.png?1708445569"
+    },
+    {
+      "chainId": 2522,
+      "address": "0xFC00000000000000000000000000000000000006",
+      "name": "Wrapped Frax Ether",
+      "symbol": "WFRXETH",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23225.png"
+    },
+    {
+      "chainId": 2522,
+      "address": "0x1Cd7bFf2a65fEbF27164603352Ba850E1D53cc5c",
+      "name": "dTrinity USD",
+      "symbol": "DUSD",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 2522,
+      "address": "0x93Bb4a786179bA2408A78240F354645A973EF0Bc",
+      "name": "Staked Frax Ether",
+      "symbol": "SFRXETH",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23177.png"
+    },
+    {
+      "chainId": 2522,
+      "address": "0xc68d73bA1A82fAd89E6D3C4d8Fab407B6AE805d4",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png"
     }
   ]
